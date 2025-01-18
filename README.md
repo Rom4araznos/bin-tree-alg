@@ -32,8 +32,8 @@
 ```cpp
     main->find(main, 18);
 ```
-*Print all elements by using find method for particular element*
-*the same pattern will work with other print methods*
+*Print all elements by using find method for particular element.*
+*The same pattern will work with other print methods*
 ```cpp
     main->find(main, 10)->symm_print();
 ```
